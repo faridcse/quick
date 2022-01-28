@@ -46,6 +46,9 @@ header{
     font-weight: 400;
     color: #0f2656;
 }
+.menu ul li a:hover{
+	color: #008aff;
+}
 
 .menu ul li:last-child a{
 	margin-right: 0;
