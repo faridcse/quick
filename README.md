@@ -1,1 +1,1 @@
-# quick
+https://faridcse.github.io/quick/
