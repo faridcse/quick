@@ -50,6 +50,7 @@ header .container{
     font-size: 16px;
     font-weight: 400;
     color: #0f2656;
+    transition: 0.5s;
 }
 .menu ul li a:hover{
 	color: #008aff;
